@@ -18,4 +18,4 @@ git clone https://github.com/BornaMehr/dotnet-make.git
 
 part of software collection [Barteh](http://barteh.ir)
 owner: [Borna Mehr Fann. Co. ](http://www.bornamehr.com)
-Ahther:[Ahad rafat Talebi](http://wwwahadrt.ir)
+Auther:[Ahad rafat Talebi](http://wwwahadrt.ir)
