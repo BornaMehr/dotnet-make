@@ -1,0 +1,29 @@
+{
+  "name": "dotnet-make",
+  "version": "1.0.0",
+  "description": "a usefull build tool for make production mode asp.net,Javascript application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BornaMehr/dotnet-make.git"
+  },
+  "keywords": [
+    "barteh",
+    "asp.net",
+    "make",
+    "build",
+    "bundle",
+    "angular",
+    "javascript",
+    "integrate-production-mode"
+  ],
+  "author": "Ahad Rafat Talebi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BornaMehr/dotnet-make/issues"
+  },
+  "homepage": "https://github.com/BornaMehr/dotnet-make#readme"
+}
