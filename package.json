@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/BornaMehr/dotnet-make/issues"
   },
-  "homepage": "https://github.com/BornaMehr/dotnet-make#readme"
+  "homepage": "https://github.com/BornaMehr/dotnet-make#readme",
+  "dependencies": {
+    "tsc": "^1.20150623.0"
+  }
 }
